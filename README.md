@@ -1,6 +1,6 @@
 # JNUC 24
 
-<img src="https://github.com/mvdbent/masteringdeployment/blob/main/Image/Title.jpeg" width="300">
+<img src="https://github.com/mvdbent/masteringdeployment/blob/main/Image/Title.jpeg" width="800">
 
 ## Understanding Apple’s Deployment Workflows and How to Master Them
 
